@@ -44,7 +44,7 @@ Algunas razones de  porque utilizar markdown en la documentación de nuestros pr
 # Esto es un Título
 ## Esto seria un subtitulo
 **este texto  ira en  negrita**
-*este texto va en cursiva*
+_este texto va en cursiva_
 
 ```
 
