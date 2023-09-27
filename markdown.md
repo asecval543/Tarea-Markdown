@@ -41,10 +41,11 @@ Algunas razones de  porque utilizar markdown en la documentación de nuestros pr
 ## Trozo de codigo
 
 ```markdown
-# Esto es un Título
-## Esto seria un subtitulo
-**este texto  ira en  negrita**
-_este texto va en cursiva_
+# Esto es un titulo
+## Esto es un subtitulo
+~~Este texto esta tachado~~
+
+
 
 ```
 
