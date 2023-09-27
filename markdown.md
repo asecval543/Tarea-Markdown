@@ -40,12 +40,10 @@ Algunas razones de  porque utilizar markdown en la documentación de nuestros pr
 
 ## Trozo de codigo
 
-```php
-<?php
-    $nombre = "Juan";
-    echo "Hola, $nombre. ¡Bienvenido a mi sitio web!";
-?>
-```
+`~~Este texto esta tachado~~´
+**Esta palabra esta negrita**
+Esto es un emoji :smile:
+`
 
 
 ## Listas desordenadas y ordenadas sobres las razones de utilizar markdown
