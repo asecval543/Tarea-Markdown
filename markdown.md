@@ -40,11 +40,11 @@ Algunas razones de  porque utilizar markdown en la documentación de nuestros pr
 
 ## Trozo de codigo
 
-```markdown
-# Esto es un titulo
-## Esto es un subtitulo
-~~Este texto esta tachado~~
-esto es un emoticono :smile:
+```php
+<?php
+    $nombre = "Juan";
+    echo "Hola, $nombre. ¡Bienvenido a mi sitio web!";
+?>
 ```
 
 
