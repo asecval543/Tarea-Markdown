@@ -1,53 +1,83 @@
 # PRÁCTICÁ 1. Introduccion a los lenguajes de marcas. Markdown
+
 # Actividad 1
-Facilidad de uso: Markdown es fácil de aprender y utilizar, incluso para personas que no tienen experiencia en codificación. La mayoría de las etiquetas de Markdown son intuitivas y se asemejan al formato que deseas lograr en el texto.
+Markdown se trata de un  lenguaje de marcado ligero que sirve frecuentemente para formatear texto en documentos, 
+especialmente en la documentación de proyectos de software.También fue creado por John Gruber y 
+Aaron Swartz en el año 2004.
 
-Legibilidad: Los documentos escritos en Markdown son altamente legibles en su forma no formateada. Esto facilita la colaboración, revisión y mantenimiento de la documentación, ya que puedes ver el contenido de manera clara sin necesidad de herramientas específicas.
+Algunas razones de  porque utilizar markdown en la documentación de nuestros proyectos las cuales son:
 
-Portabilidad: Markdown es un formato de texto plano, lo que significa que puedes editar documentos Markdown con cualquier editor de texto simple. Además, es ampliamente compatible con una variedad de herramientas y sistemas, lo que facilita la transferencia y el uso de documentos en diferentes plataformas.
+Sencillez: Markdown es fácil de aprender y usar. No hace falta tener conocimientos técnicos avanzados y utiliza una sintaxis sencilla basada en texto plano.
 
-Conversión a múltiples formatos: Markdown se puede convertir fácilmente a otros formatos, como HTML, PDF, DOCX, entre otros, utilizando herramientas de conversión. Esto significa que puedes mantener una versión única de la documentación en Markdown y generar diferentes formatos según sea necesario.
+Legibilidad: Los documentos escritos en Markdown son legibles en su forma sin formato y se ven bien formateados cuando se convierten a HTML u otros formatos. Esto facilita la lectura y la colaboración.
 
-Integración con sistemas de control de versiones: Muchas plataformas de control de versiones, como GitHub y GitLab, admiten Markdown. Esto permite que la documentación se integre directamente con el código fuente del proyecto y se mantenga en el mismo repositorio.
+Adaptabilidad: Markdown es compatible con varias plataformas, editores de texto y herramientas de generación de documentación. Esto significa que puede escribir en Markdown en un lugar y luego convertirlo a otros formatos según sea necesario.
 
-Personalización: Markdown permite una gran flexibilidad en la personalización del formato. Puedes agregar extensiones o estilos específicos para adaptar el formato a las necesidades de tu proyecto.
+Control de versión: Como Markdown es texto plano , es fácil de gestionar con sistemas de control de versiones como, por ejemplo, Git. Esto facilita el seguimiento de cambios en la documentación a lo largo del tiempo.
 
-Amplia adopción: Markdown se ha convertido en un estándar en la industria, lo que significa que la mayoría de las personas que trabajan en tecnología están familiarizadas con él, lo que facilita la colaboración y la comunicación.
+Un amplio uso: Markdown es un crecimiento aceptado en la comunidad de desarrollo de software y se utiliza en plataformas populares como, por ejemplo, GitHub y GitLab, para formatear la documentación.
 
 
 # Actividad 2
 # Markdown
 ## ¿Qué es Markdown y por qué usarlo en la documentación de nuestros proyectos?
-Markdown es un lenguaje de marcado ligero que se utiliza comúnmente para formatear texto en documentos web y documentos de texto plano. Fue creado por John Gruber y Aaron Swartz en 2004 y se ha vuelto muy popular en la comunidad de desarrollo de software y en otros campos debido a su simplicidad y facilidad de uso. Markdown utiliza una sintaxis simple y legible que se convierte fácilmente en HTML u otros formatos de salida, lo que lo hace ideal para escribir documentación, blogs, correos electrónicos y otros tipos de contenido en línea.
 
-Facilidad de uso: Markdown es fácil de aprender y utilizar, incluso para personas que no tienen experiencia en codificación. La mayoría de las etiquetas de Markdown son intuitivas y se asemejan al formato que deseas lograr en el texto.
+Markdown se trata de un  lenguaje de marcado ligero que sirve frecuentemente para formatear texto en documentos, 
+especialmente en la documentación de proyectos de software.También fue creado por John Gruber y 
+Aaron Swartz en el año 2004.
 
-Legibilidad: Los documentos escritos en Markdown son altamente legibles en su forma no formateada. Esto facilita la colaboración, revisión y mantenimiento de la documentación, ya que puedes ver el contenido de manera clara sin necesidad de herramientas específicas.
+Algunas razones de  porque utilizar markdown en la documentación de nuestros proyectos las cuales son:
 
-Portabilidad: Markdown es un formato de texto plano, lo que significa que puedes editar documentos Markdown con cualquier editor de texto simple. Además, es ampliamente compatible con una variedad de herramientas y sistemas, lo que facilita la transferencia y el uso de documentos en diferentes plataformas.
+**Sencillez**: Markdown es fácil de aprender y usar. No hace falta tener conocimientos técnicos avanzados y utiliza una sintaxis sencilla basada en texto plano.
 
-Conversión a múltiples formatos: Markdown se puede convertir fácilmente a otros formatos, como HTML, PDF, DOCX, entre otros, utilizando herramientas de conversión. Esto significa que puedes mantener una versión única de la documentación en Markdown y generar diferentes formatos según sea necesario.
+**Legibilidad**: Los documentos escritos en Markdown son legibles en su forma sin formato y se ven bien formateados cuando se convierten a HTML u otros formatos. Esto facilita la lectura y la colaboración.
 
-Integración con sistemas de control de versiones: Muchas plataformas de control de versiones, como GitHub y GitLab, admiten Markdown. Esto permite que la documentación se integre directamente con el código fuente del proyecto y se mantenga en el mismo repositorio.
+**Adaptabilidad**: Markdown es compatible con varias plataformas, editores de texto y herramientas de generación de documentación. Esto significa que puede escribir en Markdown en un lugar y luego convertirlo a otros formatos según sea necesario.
 
-Personalización: Markdown permite una gran flexibilidad en la personalización del formato. Puedes agregar extensiones o estilos específicos para adaptar el formato a las necesidades de tu proyecto.
+**Control de versión**: Como Markdown es texto plano , es fácil de gestionar con sistemas de control de versiones como, por ejemplo, Git. Esto facilita el seguimiento de cambios en la documentación a lo largo del tiempo.
 
-Amplia adopción: Markdown se ha convertido en un estándar en la industria, lo que significa que la mayoría de las personas que trabajan en tecnología están familiarizadas con él, lo que facilita la colaboración y la comunicación.
+**Un amplio uso**: Markdown es un crecimiento aceptado en la comunidad de desarrollo de software y se utiliza en plataformas populares como, por ejemplo, GitHub y GitLab, para formatear la documentación.
 
-## Listas desordenadas
-* Elemento de lista 1
-* Elemento de lista 2
-* Elemento de lista 3
-* Elemento de lista 4
-## Listas ordenadas
-1. Elemento de lista 1
-2. Elemento de lista 2
-3. Elemento de lista 3
-4. Elemento de lista 4
+## Trozo de codigo
+
+```markdown
+# Título
+
+## Subtítulo
+
+Este es un párrafo de texto normal en Markdown. Puedes **enfatizar** palabras o frases usando asteriscos o guiones bajos, como *esto* o _esto_.
+
+También puedes crear listas:
+
+- Elemento 1
+- Elemento 2
+- Elemento 3
+
+Y listas numeradas:
+
+1. Primer elemento
+2. Segundo elemento
+3. Tercer elemento
+
+```
+
+## Listas desordenadas y ordenadas sobres las razones de utilizar markdown
+
+### Listas desordenadas
+
+- Sencillez
+- Legibilidad
+- Adaptabilidad
+
+### Listas ordenadas
+
+1. Control de versión
+2. Un amplio uso
+
 ## Enlaces
 [Enlaces a mas informacion de Markdown](https://qabiria.com/es/recursos/blog/que-es-markdown-y-como-utilizarlo)
 
-[Enlace a otro fichero markdown existente llamdo fichero-existente.md](https://github.com/asecval543/Tarea-Markdown/blob/main/fichero-existente.md)
+[Enlace a otro fichero markdown existente llamado fichero-existente.md](https://github.com/asecval543/Tarea-Markdown/blob/main/fichero-existente.md)
 ## Imagen
 ![Esto es una imagen sobre Markdown](./imagenes/Markdown.png)
 ## Tabla
@@ -58,3 +88,6 @@ Amplia adopción: Markdown se ha convertido en un estándar en la industria, lo 
 | Row 3    | Cell 8   | Cell 9   |
 
 # Actividad 3
+
+ Una herramienta para convertir tu documento a HTML y compara ambos archivos es pandoc ,esta aplicación
+
