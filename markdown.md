@@ -44,7 +44,7 @@ Algunas razones de  porque utilizar markdown en la documentación de nuestros pr
 # Esto es un titulo
 ## Esto es un subtitulo
 ~~Este texto esta tachado~~
-esto es un emoticono :joy:
+esto es un emoticono :smile:
 ```
 
 
