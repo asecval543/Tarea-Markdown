@@ -41,23 +41,9 @@ Algunas razones de  porque utilizar markdown en la documentación de nuestros pr
 ## Trozo de codigo
 
 ```markdown
-# Título
+# Esto es un Título
+## Esto seria un subtitulo
 
-## Subtítulo
-
-Este es un párrafo de texto normal en Markdown. Puedes **enfatizar** palabras o frases usando asteriscos o guiones bajos, como *esto* o _esto_.
-
-También puedes crear listas:
-
-- Elemento 1
-- Elemento 2
-- Elemento 3
-
-Y listas numeradas:
-
-1. Primer elemento
-2. Segundo elemento
-3. Tercer elemento
 
 ```
 
