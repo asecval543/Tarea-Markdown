@@ -104,6 +104,6 @@ Archivo markdown.md convertido markdown.html
 
 ![](./imagenes/markdown%20convertido%20a%20html_3.2.png)
 
-![](./imagenes/markdown%20convertido%20a%20html_3.3.PNG)
+![](./imagenes/markdown%20convertido%20a%20html_3.3.png)
 
 ![](./imagenes/markdown%20convertido%20a%20html_3.4.)
