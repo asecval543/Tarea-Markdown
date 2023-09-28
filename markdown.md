@@ -94,16 +94,16 @@ Algunas razones de  porque utilizar markdown en la documentación de nuestros pr
 ![](./imagenes/actividad_3.png)
 
 Archivo markdown.md convertido markdown.html
-![](./imagenes/markdown%20convertido%20a%20html_1.png)
+![](./imagenes/markdown_a_html_1.png)
 
-![](./imagenes/markdown%20convertido%20a%20html_2.png)
+![](./imagenes/markdown_a_html_2.png)
 
-![](./imagenes/markdown%20convertido%20a%20html_2.2.png)
+![](./imagenes/markdown_a_html_2.2.png)
 
-![](./imagenes/markdown%20convertido%20a%20html_3.png)
+![](./imagenes/markdown_a_html_3.png)
 
-![](./imagenes/markdown%20convertido%20a%20html_3.2.png)
+![](./imagenes/markdown_a_html_3.2.png)
 
-![](./imagenes/markdown%20convertido%20a%20html_3.3.png)
+![](./imagenes/markdown_a_html_3.3.png)
 
-![](./imagenes/markdown%20convertido%20a%20html_4.png)
+![](./imagenes/markdown_a_html_4.png)
