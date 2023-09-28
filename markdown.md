@@ -68,7 +68,7 @@ Algunas razones de  porque utilizar markdown en la documentación de nuestros pr
 [Enlace a otro fichero markdown existente llamado fichero-existente.md](https://github.com/asecval543/Tarea-Markdown/blob/main/fichero-existente.md)
 
 ## Imagen
-![Aqui esta la imagen](/imagenes/imagen.png)
+![Aqui esta la imagen](./imagenes/imagen.png)
 
 
 ## Tabla
