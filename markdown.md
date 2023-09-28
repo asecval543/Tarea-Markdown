@@ -72,15 +72,18 @@ Algunas razones de  porque utilizar markdown en la documentación de nuestros pr
 
 
 ## Tabla
-| Nombre    | Edad | Ciudad       |
-|-----------|------|--------------|
-| Juan      | 30   | Madrid       |
-| María     | 28   | Barcelona    |
-| Carlos    | 35   | Valencia     |
-| Ana       | 22   | Sevilla      |
-
+|   Nombre   |  Edad  |    
+|:----------:|:------:|
+|    Juan    |   30   |  
+|   María    |   28   |  
+|   Carlos   |   35   |   
+|    Ana     |   22   |  
+_ _ _ _ _ _ _| _ _ _ _|
 
 # Actividad 3
 
  Una herramienta para convertir mi  documento a HTML y comparar ambos archivos es markdowntohtml y quedaria asi
 
+
+
+[def]: ./imagenes/imagen.png
