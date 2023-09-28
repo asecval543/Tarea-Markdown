@@ -68,7 +68,7 @@ Algunas razones de  porque utilizar markdown en la documentación de nuestros pr
 [Enlace a otro fichero markdown existente llamado fichero-existente.md](https://github.com/asecval543/Tarea-Markdown/blob/main/fichero-existente.md)
 
 ## Imagen
-![Aqui esta la imagen](./imagenes/imagen.png)
+![](./imagenes/imagen.png)
 
 
 ## Tabla
@@ -82,8 +82,15 @@ Algunas razones de  porque utilizar markdown en la documentación de nuestros pr
 
 # Actividad 3
 
- Una herramienta para convertir mi  documento a HTML y comparar ambos archivos es markdowntohtml y quedaria asi
+ Una herramienta para convertir mi  documento a HTML y comparar ambos archivos es pandoc y para  convertir  mi docuemnto markdown.md a html  pongo  en el terminal el siguiente comando pandoc markdown.md -o markdown.html   la opcion -o indica que a que se especifica el nombre del archivo de salida en este caso el seria markdown.html.
+
+ Archivo markdown.md
 
 
 
-[def]: ./imagenes/imagen.png
+
+
+
+
+
+ Archivo markdown.md convertido markdown.html
