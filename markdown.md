@@ -78,7 +78,7 @@ Algunas razones de  porque utilizar markdown en la documentación de nuestros pr
 |   María    |   28   |  
 |   Carlos   |   35   |   
 |    Ana     |   22   |  
-_ _ _ _ _ _ _| _ _ _ _|
+
 
 # Actividad 3
 
