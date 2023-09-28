@@ -40,10 +40,13 @@ Algunas razones de  porque utilizar markdown en la documentación de nuestros pr
 
 ## Trozo de codigo
 
-`~~Este texto esta tachado~~´
-**Esta palabra esta negrita**
-Esto es un emoji :smile:
-`
+```php
+<?php
+    $nombre = "Alex";
+    echo "Hola, $nombre. ¡Bienvenido a mi sitio web!";
+?>
+```
+
 
 
 ## Listas desordenadas y ordenadas sobres las razones de utilizar markdown
@@ -64,15 +67,11 @@ Esto es un emoji :smile:
 
 [Enlace a otro fichero markdown existente llamado fichero-existente.md](https://github.com/asecval543/Tarea-Markdown/blob/main/fichero-existente.md)
 ## Imagen
-![Esto es una imagen sobre Markdown](./imagenes/Markdown.png)
+![Esto es una imagen sobre Markdown](./imagenes/markdown.jpg)
 ## Tabla
-| Column 1 | Column 2 | Column 3 |
-|----------|----------|----------|
-| Row 1    | Cell 2   | Cell 3   |
-| Row 2    | Cell 5   | Cell 6   |
-| Row 3    | Cell 8   | Cell 9   |
+
 
 # Actividad 3
 
- Una herramienta para convertir tu documento a HTML y compara ambos archivos es pandoc ,esta aplicación
+ Una herramienta para convertir mi  documento a HTML y comparar ambos archivos es markdowntohtml y quedaria asi
 
