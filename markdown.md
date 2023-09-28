@@ -89,6 +89,6 @@ Algunas razones de  porque utilizar markdown en la documentación de nuestros pr
 
 ![](./imagenes/actividad2.png)
 
-![](./imagenes/actividad2.2.png.png)
+![](./imagenes/actividad2.2.png)
 
 Archivo markdown.md convertido markdown.html
