@@ -66,9 +66,14 @@ Algunas razones de  porque utilizar markdown en la documentación de nuestros pr
 [Enlaces a mas informacion de Markdown](https://qabiria.com/es/recursos/blog/que-es-markdown-y-como-utilizarlo)
 
 [Enlace a otro fichero markdown existente llamado fichero-existente.md](https://github.com/asecval543/Tarea-Markdown/blob/main/fichero-existente.md)
-## Imagen
-![Esto es una imagen sobre Markdown](./imagenes/markdown.jpg)
+
 ## Tabla
+| Nombre    | Edad | Ciudad       |
+|-----------|------|--------------|
+| Juan      | 30   | Madrid       |
+| María     | 28   | Barcelona    |
+| Carlos    | 35   | Valencia     |
+| Ana       | 22   | Sevilla      |
 
 
 # Actividad 3
