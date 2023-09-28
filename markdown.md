@@ -85,12 +85,12 @@ Algunas razones de  porque utilizar markdown en la documentación de nuestros pr
  Una herramienta para convertir mi  documento a HTML y comparar ambos archivos es pandoc y para  convertir  mi docuemnto markdown.md a html  pongo  en el terminal el siguiente comando pandoc markdown.md -o markdown.html   la opcion -o indica que a que se especifica el nombre del archivo de salida en este caso el seria markdown.html.
 
  Archivo markdown.md
-![](./imagenes/actividad1.png)
+![Esta imagen es de la actividad 1](./imagenes/actividad1.png)
 
-![](./imagenes/actividad2.png)
+![Esta imagen es de la actividad 2](./imagenes/actividad2.png)
 
-![](./imagenes/actividad2.2.png)
+![Esta imagen es la continuacion de la actividad 2](./imagenes/actividad2.2.png)
 
-![](./imagenes/actividad3.png)
+![Esta imagen es de la actividad 3](./imagenes/actividad3.png)
 
 Archivo markdown.md convertido markdown.html
