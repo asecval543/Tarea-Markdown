@@ -76,12 +76,16 @@ Listas ordenadas
 
 
 ## Tabla
-|   Nombre   |  Edad  |    
-|:----------:|:------:|
-|    Juan    |   30   |  
-|   María    |   28   |  
-|   Carlos   |   35   |   
-|    Ana     |   22   |  
+| Ventajas de Markdown         | Desventajas de Markdown   |
+|------------------------------|---------------------------|
+| Fácil de aprender y usar     | Limitado en funcionalidad |
+| Texto plano y legible        | Carece de características avanzadas de diseño |
+| Compatible con la mayoría de los editores de texto | No es adecuado para proyectos de diseño gráfico complejo |
+| Ligero y rápido de procesar  | Puede ser limitado en la creación de documentos estructurados |
+| Ampliamente compatible en la web | No es tan comúnmente conocido como otros formatos de archivo |
+| Ideal para documentación técnica y notas rápidas | No es la mejor opción para documentos con diseño elaborado |
+| Puede ser convertido fácilmente a otros formatos (por ejemplo, HTML o PDF) | Requiere conocimiento adicional para incrustar contenido multimedia |
+
 
 
 # Actividad 3
