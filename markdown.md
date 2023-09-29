@@ -81,15 +81,17 @@ Listas desordenadas
 
 
 ## Tabla
+------------------------------------------------------------                                                                          
+|                             Markdown                     |
+------------------------------------------------------------
+|                              |                           |
 | Ventajas de Markdown         | Desventajas de Markdown   |
 |------------------------------|---------------------------|
-| Fácil de aprender y usar     | Limitado en funcionalidad |
-| Texto plano y legible        | Carece de características avanzadas de diseño |
-| Compatible con la mayoría de los editores de texto | No es adecuado para proyectos de diseño gráfico complejo |
-| Ligero y rápido de procesar  | Puede ser limitado en la creación de documentos estructurados |
-| Ampliamente compatible en la web | No es tan comúnmente conocido como otros formatos de archivo |
-| Ideal para documentación técnica y notas rápidas | No es la mejor opción para documentos con diseño elaborado |
-| Puede ser convertido fácilmente a otros formatos (por ejemplo, HTML o PDF) | Requiere conocimiento adicional para incrustar contenido multimedia |
+| Es Fácil de aprender y usar     | Esta  limitado en su funcionalidad |
+| Es compatible con la mayoría de los editores de texto | No es adecuado para proyectos de diseño gráfico complejo |
+|Es  Ligero y rápido de procesar  | Puede estar limitado en la creación de documentos estructurados |
+| Es compatible en la web | No es tan conocido como otros formatos de archivo de textos |
+| Puede ser convertido fácilmente a otros formatos (por ejemplo, HTML o PDF) | Se necesita conocer adicionalmente  para incrustar contenido multimedia |
 
 
 
