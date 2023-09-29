@@ -83,7 +83,6 @@ Listas desordenadas
 ## Tabla
 
 ------------------------------------------------------------
-|                              |                           |
 | Ventajas de Markdown         | Desventajas de Markdown   |
 |------------------------------|---------------------------|
 | Es Fácil de aprender y usar     | Esta  limitado en su funcionalidad |
