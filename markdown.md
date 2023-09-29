@@ -42,10 +42,15 @@ Algunas razones de  porque utilizar markdown en la documentación de nuestros pr
 
 ```markdown
 # Titulo
+## Subtitulo
 Listas ordenadas
 1. elemento 1
 2. elemento 2
 3. elemneto 3
+Listas desordenadas
+* Elemento 1
+* Elemento 2
+* Elemnto 3
 
 **Esta parte esta en negrita**
 *Esta parte esta en cursiva*
