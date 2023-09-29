@@ -40,11 +40,15 @@ Algunas razones de  porque utilizar markdown en la documentación de nuestros pr
 
 ## Trozo de codigo
 
-```php
-<?php
-    $nombre = "Alex";
-    echo "Hola, $nombre. ¡Bienvenido a mi sitio web!";
-?>
+```markdown
+# Titulo
+Listas ordenadas
+1. elemento 1
+2. elemento 2
+3. elemneto 3
+
+**Esta parte esta en negrita**
+*Esta parte esta en cursiva*
 ```
 
 
