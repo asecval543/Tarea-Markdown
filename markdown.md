@@ -81,8 +81,7 @@ Listas desordenadas
 
 
 ## Tabla
-------------------------------------------------------------                                                                          
-|                             Markdown                     |
+
 ------------------------------------------------------------
 |                              |                           |
 | Ventajas de Markdown         | Desventajas de Markdown   |
