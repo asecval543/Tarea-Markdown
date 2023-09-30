@@ -99,29 +99,30 @@ Listas desordenadas
  Una herramienta para convertir mi  documento a HTML y comparar ambos archivos es pandoc y para  convertir  mi docuemnto markdown.md a html  pongo  en el terminal el siguiente comando pandoc markdown.md -o markdown.html   la opcion -o indica que a que se especifica el nombre del archivo de salida en este caso el seria markdown.html.Una vez  que lo ponga se convertira a html y se guardara en la carpeta.Esta herramienta esta disponible para  los siguientes sistemas operativos: Windows,Linux y MacOS.
 
  A continuacion  dejo la captura de dicho comando anterior:
+ 
+ 
  ![](./imagenes/comando.png)
 
  Archivo markdown.md
-![](./imagenes/actividad_1.png)
 
-![](./imagenes/actividad_2.png)
+![](./imagenes/arctividad_1_.png)
 
-![](./imagenes/continuacion_actividad_2.png)
+![](./imagenes/actividad_2_.png)
 
-![](./imagenes/actividad_3.png)
+![](./imagenes/continuacion_actividad_2_2.png)
+
+![](./imagenes/continuacion_actividad_2.2.2.png)
+
+![](./imagenes/actividad_3_.png)
 
 Archivo markdown.md convertido markdown.html
 
-![](./imagenes/markdown_a_html_1.png)
+![](./imagenes/continuacion_actividad_1_convertido_html.png)
 
-![](./imagenes/markdown_a_html_2.png)
+![](./imagenes/actividad_2_convertido_html.png)
 
-![](./imagenes/markdown_a_html_2.2.png)
+![](./imagenes/continuacion_actividad_2_convertido_html.png)
 
-![](./imagenes/markdown_a_html_3.png)
+![](./imagenes/actividad_3.png)
 
-![](./imagenes/markdown_a_html_3.2.png)
 
-![](./imagenes/markdown_a_html_3.3.png)
-
-![](./imagenes/markdown_a_html_4.png)
