@@ -123,6 +123,6 @@ Archivo markdown.md convertido markdown.html
 
 ![](./imagenes/continuacion_actividad_2_convertido_html.png)
 
-![](./imagenes/actividad_3.png)
+![](./imagenes/actividad_3_.png)
 
 
