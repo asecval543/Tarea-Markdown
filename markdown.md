@@ -81,12 +81,11 @@ Listas desordenadas
 
 
 ## Tabla
+
+
 ------------------------------------------------------------
-|                                                          |
-|                Ventajas y Desventajas Markdown           |
-|------------------------------------------------------------
-| Ventajas                       | Desventajas             |
-|------------------------------- |---------------------------|
+| Ventajas de Markdown         | Desventajas de Markdown   |
+|------------------------------|---------------------------|
 | Es Fácil de aprender y usar     | Esta  limitado en su funcionalidad |
 | Es compatible con la mayoría de los editores de texto | No es adecuado para proyectos de diseño gráfico complejo |
 |Es  Ligero y rápido de procesar  | Puede estar limitado en la creación de documentos estructurados |
@@ -97,7 +96,10 @@ Listas desordenadas
 
 # Actividad 3
 
- Una herramienta para convertir mi  documento a HTML y comparar ambos archivos es pandoc y para  convertir  mi docuemnto markdown.md a html  pongo  en el terminal el siguiente comando pandoc markdown.md -o markdown.html   la opcion -o indica que a que se especifica el nombre del archivo de salida en este caso el seria markdown.html.
+ Una herramienta para convertir mi  documento a HTML y comparar ambos archivos es pandoc y para  convertir  mi docuemnto markdown.md a html  pongo  en el terminal el siguiente comando pandoc markdown.md -o markdown.html   la opcion -o indica que a que se especifica el nombre del archivo de salida en este caso el seria markdown.html.Una vez  que lo ponga se convertira a html y se guardara en la carpeta.Esta herramienta esta disponible para  los siguientes sistemas operativos: Windows,Linux y MacOS.
+
+ A continuacion  dejo la captura de dicho comando anterior:
+ ![](./imagenes/comando.png)
 
  Archivo markdown.md
 ![](./imagenes/actividad_1.png)
@@ -109,6 +111,7 @@ Listas desordenadas
 ![](./imagenes/actividad_3.png)
 
 Archivo markdown.md convertido markdown.html
+
 ![](./imagenes/markdown_a_html_1.png)
 
 ![](./imagenes/markdown_a_html_2.png)
