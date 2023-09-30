@@ -83,8 +83,10 @@ Listas desordenadas
 ## Tabla
 
 ------------------------------------------------------------
-| Ventajas de Markdown         | Desventajas de Markdown   |
+| Ventajas y Desventajas de Markdown                       |
 |------------------------------|---------------------------|
+| **Ventajas**                 |     **Desventajas**       |
+\----------------------------------------------------------
 | Es Fácil de aprender y usar     | Esta  limitado en su funcionalidad |
 | Es compatible con la mayoría de los editores de texto | No es adecuado para proyectos de diseño gráfico complejo |
 |Es  Ligero y rápido de procesar  | Puede estar limitado en la creación de documentos estructurados |
